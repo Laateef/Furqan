@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="printer">resources/printer.png</file>
+        <file alias="zoom-in">resources/zoom-in.png</file>
+        <file alias="zoom-out">resources/zoom-out.png</file>
+        <file alias="report">resources/report.png</file>
+        <file alias="settings">resources/settings.png</file>
+        <file alias="minimize">resources/minimize.png</file>
+        <file alias="empty-database">resources/empty.fdb</file>
+        <file alias="database-backup">resources/database_backup.png</file>
+        <file alias="database-connect">resources/database_connect.png</file>
+        <file alias="database-create">resources/database_create.png</file>
+        <file alias="table-add">resources/table_add.png</file>
+        <file alias="table-modify">resources/table_modify.png</file>
+        <file alias="table-print">resources/table_print.png</file>
+        <file alias="table-remove">resources/table_remove.png</file>
+        <file alias="align-center">resources/align-center.png</file>
+        <file alias="align-left">resources/align-left.png</file>
+        <file alias="align-right">resources/align-right.png</file>
+        <file alias="bold">resources/bold.png</file>
+        <file alias="italic">resources/italic.png</file>
+        <file alias="underline">resources/underline.png</file>
+        <file alias="exit">resources/exit.png</file>
+        <file alias="close-ltr">resources/close-ltr.png</file>
+        <file alias="close-rtl">resources/close-rtl.png</file>
+        <file alias="emotion-happy">resources/emotion-happy.png</file>
+        <file alias="emotion-sad">resources/emotion-sad.png</file>
+        <file alias="splash-ar">resources/splash-ar.png</file>
+        <file alias="splash-en">resources/splash-en.png</file>
+    </qresource>
+</RCC>
